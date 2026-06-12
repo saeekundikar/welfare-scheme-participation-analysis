@@ -1,0 +1,9 @@
+scheme,model,r_squared,adj_r_squared,rmse,mae,f_statistic,f_pvalue,n_observations,t_stat,p_value,cohens_d,high_scst_mean,low_scst_mean,f_stat,eta_squared
+PM-KISAN,OLS Regression,0.6165,0.6124,0.0567,0.0459,148.9313,0.0,750.0,,,,,,,
+Ayushman Bharat,OLS Regression,0.632,0.628,0.0604,0.0482,159.084,0.0,750.0,,,,,,,
+PM-KISAN,SC/ST T-Test,,,,,,,,-6.523,0.0,-0.4764,0.6923,0.7348,,
+Ayushman Bharat,SC/ST T-Test,,,,,,,,-5.5915,0.0,-0.4083,0.6969,0.7368,,
+PM-KISAN,Gender Gap T-Test,,,,,,,,4.4163,1.2e-05,-0.3225,,,,
+Ayushman Bharat,Gender Gap T-Test,,,,,,,,4.6332,4e-06,-0.3384,,,,
+PM-KISAN,ANOVA Literacy by Gap Tier,,,,,,,,,0.0,,,,211.109,0.3611
+Ayushman Bharat,ANOVA Literacy by Gap Tier,,,,,,,,,0.0,,,,172.3306,0.3157

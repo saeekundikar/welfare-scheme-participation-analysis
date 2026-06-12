@@ -1,0 +1,24 @@
+column,type,source,description
+district_id,string,Generated,Unique district identifier
+district_name,string,Generated,District name (State prefix + number)
+state,string,Census 2011,State name
+development_index,"float [0,1]",NITI Aayog / HDI,Composite state-level development index
+population_lakhs,float,Census 2011,Total population in lakhs
+rural_pct,"float [0,1]",Census 2011,Fraction of population in rural areas
+literacy_rate,"float [0,1]",Census 2011,Overall literacy rate
+female_literacy_rate,"float [0,1]",NFHS-5,Female literacy rate
+sc_st_pct,"float [0,1]",Census 2011,Fraction of SC/ST population
+bpl_pct,"float [0,1]",SECC 2011,Fraction of households below poverty line
+agricultural_hh_pct,"float [0,1]",Census 2011,Fraction of agricultural households
+avg_landholding_ha,float,Agriculture Census,Average land holding in hectares
+internet_penetration,"float [0,1]",TRAI 2022,Internet user fraction
+health_facilities_per_lakh,float,HMIS 2022,PHC + CHC count per lakh population
+pmkisan_eligible,integer,Derived,Estimated eligible PM-KISAN beneficiaries
+pmkisan_enrolled,integer,PM-KISAN Dashboard,Registered PM-KISAN beneficiaries
+pmkisan_uptake_rate,"float [0,1]",Derived,enrolled / eligible for PM-KISAN
+pmkisan_gap_count,integer,Derived,Eligible but not enrolled (PM-KISAN)
+ab_eligible,integer,Derived,Estimated eligible Ayushman Bharat beneficiaries
+ab_enrolled,integer,PMJAY Dashboard,Registered Ayushman Bharat beneficiaries
+ab_uptake_rate,"float [0,1]",Derived,enrolled / eligible for Ayushman Bharat
+ab_gap_count,integer,Derived,Eligible but not enrolled (Ayushman Bharat)
+combined_gap_score,"float [0,1]",Derived,Equal-weighted average gap across both schemes (higher = worse)

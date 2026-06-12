@@ -1,0 +1,32 @@
+state,districts,average_priority_score,pmkisan_uptake,ayushman_uptake,critical_districts,high_risk_districts,intervention_category
+Bihar,38,0.345,0.606,0.613,27,37,Moderate Monitoring
+Uttar Pradesh,75,0.312,0.644,0.642,35,72,Moderate Monitoring
+Madhya Pradesh,55,0.311,0.65,0.656,18,49,Moderate Monitoring
+Jharkhand,24,0.309,0.63,0.665,11,23,Moderate Monitoring
+Manipur,16,0.306,0.705,0.694,1,12,Moderate Monitoring
+Rajasthan,33,0.301,0.66,0.688,6,27,Moderate Monitoring
+Odisha,30,0.293,0.677,0.654,9,28,Moderate Monitoring
+Chhattisgarh,33,0.291,0.675,0.671,8,30,Moderate Monitoring
+Assam,35,0.287,0.672,0.673,9,29,Moderate Monitoring
+Nagaland,12,0.286,0.713,0.691,3,8,Moderate Monitoring
+Andhra Pradesh,25,0.278,0.704,0.71,3,13,Moderate Monitoring
+Meghalaya,12,0.264,0.683,0.716,0,8,Moderate Monitoring
+Arunachal Pradesh,26,0.258,0.7,0.706,1,17,Moderate Monitoring
+Ladakh,2,0.256,0.726,0.707,0,0,Moderate Monitoring
+Tripura,8,0.25,0.73,0.668,0,5,Moderate Monitoring
+Jammu & Kashmir,20,0.248,0.73,0.748,2,6,Stable
+West Bengal,23,0.237,0.736,0.723,1,9,Stable
+Telangana,33,0.236,0.736,0.732,0,15,Stable
+Haryana,22,0.227,0.772,0.764,0,3,Stable
+Karnataka,31,0.216,0.777,0.772,0,2,Stable
+Punjab,23,0.209,0.78,0.801,0,3,Stable
+Gujarat,33,0.207,0.772,0.781,0,1,Stable
+Uttarakhand,13,0.204,0.783,0.76,0,2,Stable
+Mizoram,11,0.201,0.776,0.777,0,2,Stable
+Maharashtra,36,0.186,0.785,0.798,0,1,Stable
+Tamil Nadu,38,0.183,0.808,0.806,0,1,Stable
+Sikkim,4,0.175,0.777,0.813,0,0,Stable
+Goa,2,0.161,0.843,0.852,0,0,Stable
+Kerala,14,0.148,0.854,0.869,0,0,Stable
+Himachal Pradesh,12,0.143,0.824,0.858,0,0,Stable
+Delhi,11,0.14,0.852,0.855,0,0,Stable

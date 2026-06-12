@@ -1,0 +1,7 @@
+,pmkisan_uptake_rate,pmkisan_uptake_rate,pmkisan_uptake_rate,ab_uptake_rate,ab_uptake_rate,ab_uptake_rate,combined_gap_score,combined_gap_score,combined_gap_score,priority_score,priority_score,priority_score,literacy_rate,literacy_rate,literacy_rate,internet_penetration,internet_penetration,internet_penetration,bpl_pct,bpl_pct,bpl_pct,rural_pct,rural_pct,rural_pct,development_index,development_index,development_index,health_facilities_per_lakh,health_facilities_per_lakh,health_facilities_per_lakh
+,mean,min,max,mean,min,max,mean,min,max,mean,min,max,mean,min,max,mean,min,max,mean,min,max,mean,min,max,mean,min,max,mean,min,max
+district_segment,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Critical Priority,0.599,0.473,0.762,0.587,0.428,0.754,0.407,0.287,0.527,0.37,0.262,0.633,0.612,0.405,0.756,0.258,0.044,0.448,0.414,0.214,0.659,0.744,0.526,0.926,0.365,0.163,0.552,11.46,4.574,18.53
+High Coverage,0.841,0.71,0.92,0.845,0.664,0.88,0.157,0.1,0.263,0.154,0.085,0.27,0.814,0.684,0.931,0.471,0.256,0.637,0.238,0.05,0.424,0.548,0.33,0.757,0.785,0.622,0.95,20.683,13.8,27.144
+Low Coverage,0.681,0.561,0.814,0.681,0.5,0.829,0.319,0.216,0.401,0.279,0.175,0.455,0.658,0.516,0.839,0.325,0.142,0.532,0.343,0.05,0.565,0.677,0.464,0.887,0.49,0.315,0.648,14.524,6.9,22.07
+Medium Coverage,0.753,0.628,0.873,0.769,0.586,0.88,0.239,0.144,0.318,0.222,0.12,0.372,0.737,0.572,0.88,0.385,0.194,0.587,0.297,0.062,0.532,0.628,0.369,0.843,0.635,0.484,0.827,17.897,10.54,25.97
