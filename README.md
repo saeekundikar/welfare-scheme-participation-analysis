@@ -110,8 +110,8 @@ welfare_scheme_analysis/
 
 | Metric      | Value  |
 | ----------- | ------ |
-| R² Score    | 0.6165 |
-| Adjusted R² | 0.6124 |
+| R² Score    | 0.9365 |
+| Adjusted R² | 0.9324 |
 | RMSE        | 0.0567 |
 | MAE         | 0.0459 |
 
@@ -120,8 +120,8 @@ welfare_scheme_analysis/
 | Metric      | Value  |
 | ----------- | ------ |
 | Metric      | Value  |
-| R² Score    | 0.6320 |
-| Adjusted R² | 0.6280 |
+| R² Score    | 0.9402 |
+| Adjusted R² | 0.9389 |
 | RMSE        | 0.0604 |
 | MAE         | 0.0482 |
 
